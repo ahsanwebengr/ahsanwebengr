@@ -37,7 +37,7 @@ I enjoy turning complex requirements into clean, maintainable, and user-focused 
 
 ### UI & Styling
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
@@ -67,6 +67,7 @@ I enjoy turning complex requirements into clean, maintainable, and user-focused 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![AWS SES](https://img.shields.io/badge/Amazon_SES-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
@@ -102,9 +103,10 @@ I enjoy turning complex requirements into clean, maintainable, and user-focused 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahsanwebengr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahsanwebengr)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahsanwebegnr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ahsanwebengr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahsanwebengr)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahsanwebengr)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahsanwebegnr@gmail.com)
 
 ---
 
@@ -123,7 +125,3 @@ I enjoy turning complex requirements into clean, maintainable, and user-focused 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=light)
 
 ---
-
-### 📈 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=ahsanwebengr\&icon=0\&color=0)
